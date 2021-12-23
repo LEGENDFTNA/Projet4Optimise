@@ -1099,18 +1099,6 @@ h4 {
     }
 }
 
-@media (max-width: 400px) {
-    .bloc {
-        padding-left: 0;
-        padding-right: 0;
-    }
-}
-
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
-    }
-}
 @media all and (min-width: 780px) and (max-width: 960px) {
     .portfolio .row {
         display: flex;
