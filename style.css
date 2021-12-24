@@ -771,7 +771,7 @@ p {
     font-family: "Open Sans";
 }
 
-.cta-hero {
+#cta-hero {
     margin-bottom: 30px;
     margin-top: 22px;
     color: #000000;
