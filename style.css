@@ -26,6 +26,17 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
+.cta-hero {
+    margin-bottom: 30px;
+    margin-top: 22px;
+    color: #000000;
+    background-color: rgb(243, 151, 108);
+    text-transform: uppercase;
+    padding: 12px 28px 12px 28px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 40px;
+}
 .new-add {
     text-align: center;
     padding: 5px;
