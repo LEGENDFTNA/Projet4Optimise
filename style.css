@@ -63,10 +63,6 @@ header .container {
     justify-content: center;
     align-items: center;
 }
-#cta-hero {
-    color: #000000;
-    background-color: rgb(243, 151, 108);
-}
 .black {
     color: #000000;
 }
@@ -771,7 +767,7 @@ p {
     font-family: "Open Sans";
 }
 
-#cta-hero {
+.cta-hero {
     margin-bottom: 30px;
     margin-top: 22px;
     color: #000000;
@@ -907,6 +903,10 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+.white1 {
+    color: #000000;
+    background-color: rgb(243, 151, 108);
 }
 
 @media (max-width: 1024px) {
