@@ -63,6 +63,10 @@ header .container {
     justify-content: center;
     align-items: center;
 }
+#cta-hero {
+    color: #000000;
+    background-color: rgb(243, 151, 108);
+}
 .black {
     color: #000000;
 }
@@ -435,6 +439,9 @@ figcaption {
     float: right;
     position: relative;
     z-index: 2;
+}
+.section-2 {
+    display: flex;
 }
 
 @media (min-width: 768px) {
